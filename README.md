@@ -1,2 +1,2 @@
-# firstpro
-added html css and javascipt
+# Website
+Created a basic website using HTML and CSS.
